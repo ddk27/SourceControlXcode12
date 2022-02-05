@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world! Xcode 12 Branch.")
+        Text("Hello, world! Xcode 12 Branch. pusch to xcode12")
             .padding()
             .font(.title)
     }
